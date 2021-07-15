@@ -24,7 +24,5 @@
     "url": "https://github.com/adatdat/chat-application/issues"
   },
   "homepage": "https://github.com/adatdat/chat-application#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "dependencies": {}
 }
