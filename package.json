@@ -1,0 +1,27 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "Chat app write by MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adatdat/chat-application.git"
+  },
+  "keywords": [
+    "chat",
+    "application",
+    "mongodb",
+    "react",
+    "node",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adatdat/chat-application/issues"
+  },
+  "homepage": "https://github.com/adatdat/chat-application#readme"
+}
