@@ -1,7 +1,22 @@
-const express = require('express')
-const app = express()
-const port = 3002
+const express = require('express');
+const { Server } = require('ws');
 
-app.get('/', (req, res) => res.send("Welcome to setting up Node.js project tutorial!"))
+const PORT = process.env.PORT || 3000;
+const INDEX = '/index.html';
 
-app.listen(port, () => console.log(`Application listening on port ${port}!`))
+const server = express()
+  .use((req, res) => res.sendFile(INDEX, { root: __dirname }))
+  .listen(PORT, () => console.log(`Listening on ${PORT}`));
+
+const wss = new Server({ server });
+
+wss.on('connection', (ws) => {
+  console.log('Client connected');
+  ws.on('close', () => console.log('Client disconnected'));
+});
+
+setInterval(() => {
+  wss.clients.forEach((client) => {
+    client.send(new Date().toTimeString());
+  });
+}, 1000);
