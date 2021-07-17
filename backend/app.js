@@ -1,7 +1,17 @@
-const express = require('express')
-const app = express()
-const port = 3002
+const { MongoClient } = require('mongodb');
 
-app.get('/', (req, res) => res.send("Welcome to setting up Node.js project tutorial!"))
+const uri = 'mongodb+srv://chat-admin:bruhlmao123@cluster-chat.0sque.mongodb.net/chat-application';
 
-app.listen(port, () => console.log(`Application listening on port ${port}!`))
+const client = new MongoClient(uri);
+async function run() {
+  try {
+    await client.connect();
+    const users = await client.db('chat-application').collection('User');
+    const query = {'userName' : 'Ronaldo'}
+    const userInfo = await users.findOne(query);
+    console.log(userInfo);
+  } finally {
+    await client.close();
+  }
+}
+run().catch(console.dir);
