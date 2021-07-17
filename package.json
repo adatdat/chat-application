@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/adatdat/chat-application#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
   }
 }
