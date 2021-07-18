@@ -1,8 +1,8 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const userChema = new mongoose.Schema({
   userId: {
-    type: Int64,
+    type: String,
     required: true
   },
   userName: {
@@ -16,4 +16,4 @@ const userChema = new mongoose.Schema({
 
 const User = mongoose.model('User', userChema);
 
-module.exports = { User };
+export default User;

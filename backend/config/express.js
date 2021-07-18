@@ -4,13 +4,11 @@ import helmet from 'helmet';
 import cors from 'cors';
 // import passport from 'passport';
 import { logs, CLIENT_URL, SERVER_URL, ADMIN_URL } from './vars.js';
-
-import logger from './logger.js'
+import routers from '../routes/index.js';
+import logger from './logger.js';
 
 const server = express();
-server.get('/',(req,res)=>{
-return res.send('Hello world')
-})
+server.use("/", routers);
 
 server.use(helmet());
 server.use(morgan(logs, { stream: logger.stream }));
