@@ -9,6 +9,12 @@ router.get('/status', (_, res) =>
   })
 );
 
+router.get('/', (_, res) =>
+  res.json({
+    message: 'Everything looks good'
+  })
+);
+
 router.use('/user', userRouter);
 
 export default router;

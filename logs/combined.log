@@ -130,3 +130,79 @@
 {"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-18T04:28:16.097Z"}
 {"message":"\u001b[0mGET /user/info/1 \u001b[33m404\u001b[0m 2.654 ms - 150\u001b[0m","level":"info","timestamp":"2021-07-18T04:29:16.894Z"}
 {"message":"\u001b[0mGET /user/info/01 \u001b[33m404\u001b[0m 0.664 ms - 151\u001b[0m","level":"info","timestamp":"2021-07-18T04:29:21.552Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:05:14.244Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:05:14.969Z"}
+{"message":"\u001b[0mGET / \u001b[33m404\u001b[0m 4.237 ms - 139\u001b[0m","level":"info","timestamp":"2021-07-20T03:05:24.124Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:06:21.726Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:06:32.986Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:06:38.506Z"}
+{"message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 4.892 ms - 150\u001b[0m","level":"info","timestamp":"2021-07-20T03:06:42.519Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:07:16.028Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:07:21.514Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:09:31.219Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:09:36.742Z"}
+{"message":"\u001b[0mGET /user \u001b[33m404\u001b[0m 3.682 ms - 143\u001b[0m","level":"info","timestamp":"2021-07-20T03:10:37.797Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:11:28.545Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:11:34.039Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:12:09.278Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:12:09.813Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:12:14.346Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:12:19.846Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:12:30.515Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:12:38.129Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:12:38.951Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:15:57.691Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:16:03.208Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:16:33.484Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:16:39.027Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:16:45.506Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:16:50.292Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:16:55.703Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:17:01.174Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:17:09.733Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:17:22.326Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:17:27.822Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:18:01.865Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:18:07.390Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:18:55.683Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:19:08.621Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:19:14.126Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:19:27.698Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:19:32.762Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:19:53.605Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:19:54.037Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:22:09.219Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:22:22.591Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:22:31.589Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:22:45.032Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:22:50.532Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:23:17.943Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:23:23.469Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:24:02.619Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:24:10.204Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:24:15.980Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:24:16.489Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:24:30.460Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:24:35.981Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:25:15.602Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:25:21.245Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T03:53:02.341Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T03:53:03.003Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T07:06:59.149Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T07:07:00.933Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T07:56:42.064Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T07:56:42.771Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:00:49.375Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:00:49.837Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:01:05.838Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:01:06.302Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:01:50.625Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:01:55.730Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:03:41.620Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:03:46.720Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:03:50.837Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:03:56.321Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:05:02.622Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:05:07.707Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-20T08:06:13.952Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-20T08:06:19.041Z"}

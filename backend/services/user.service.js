@@ -15,4 +15,8 @@ userService.getUserById = async (id) => {
   });
 };
 
+userService.getAll = async () => {
+  return await User.find();
+};
+
 export default userService;
