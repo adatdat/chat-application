@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState,useEffect} from 'react'
 const PageLogin = () => {
 
     //set lại trị cho valueinput dùng setvalueinput
@@ -6,10 +6,15 @@ const PageLogin = () => {
         username : '',
         password : ''
     })
+    const [isSubmitting, setIsSubmitting] = useState(false);
+    const [error, setError] = useState({})
 
-    const handlesubmit = (e) => {
-
-    }
+    const handleSubmit = e => {
+        e.preventDefault();
+    
+        setError((valueInput));
+        setIsSubmitting(true);
+      };
     console.log({valueInput});
 
     return <div className="wrapper fadeInDown">
@@ -25,15 +30,15 @@ const PageLogin = () => {
                 <input type="text"
                        className="fadeIn third"
                        value={valueInput.password}
-                       onChange={(e) =>setValueInput({...valueInput,password : e.target.value})}
+                       onChange={(e) =>setValueInput({...valueInput,pasword : e.target.value})}
                        placeholder="password" />
                 <input type="submit"
-                       onClick={handlesubmit()}
+                       onClick={handleSubmit()}
                        className="fadeIn fourth"
                        value="Log In" />
             </form>
             <div id="formFooter">
-                <a className="underlineHover" href="#">Forgot Password?</a>
+                <a className="underlineHover">Forgot Password?</a>
             </div>
         </div>
     </div>
