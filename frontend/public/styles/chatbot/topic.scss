@@ -1,0 +1,81 @@
+
+.topic{
+    width: 100%;
+    height: auto;
+    margin-left: -13px;
+    &_wrap{
+        @include flexbox;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        &_list{
+            @include flexbox;
+            width: 100%;
+            max-width: 478px;
+            .activeTopic{
+               @include shadow_inner_chat;
+                p{
+                    color: #eb173c !important;
+                }
+            }
+            &_ele{
+                cursor: pointer;
+                width: 114px;
+                height: 107px;
+                @include flexbox;
+                align-items: center;
+                padding-top: 5px;
+                flex-direction: column;
+                border-radius:6px;
+                @include shadow_chat;
+                background-color: #f2f2f2;
+
+                img{
+                    width: 46px;
+                    height: 46px;
+                }
+                p{
+                    font-size: 14px;
+                    color: #3c3e60;
+                    font-weight: 500;
+                    font-family: Roboto-bold;
+                    max-width: 100px;
+                    text-align: center  ;
+                }
+            }
+        }
+    }
+    &_sub{
+        @include flexbox;
+        width: 100%;
+        margin-top: 10px;
+        .activeSub{
+            @include shadow_inner_chat();
+            p{
+                color: #eb173c !important;
+            }
+        }
+        &_ele{
+            height: auto;
+            width: 95%;
+            @include flexbox;
+            cursor: pointer;
+            align-items: center;
+            flex-direction: column;
+            border-radius: 6px;
+            @include shadow_chat();
+            background-color: #f2f2f2;
+
+            p{
+                padding: 10px;
+                font-size: 14px;
+                max-width: 300px;
+                color: #3c3e60;
+                font-weight: normal;
+                text-align: center  ;
+                font-family:  Roboto-bold;
+                margin: 0;
+            }
+        }
+    }
+}

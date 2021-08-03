@@ -1,0 +1,148 @@
+$width_chatroom : 475px;
+.chatroom{
+    width: $width_chatroom;
+    height: 70vh;
+    margin-bottom: 10px;
+    &_connect{
+        margin-top: 20px;
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        &-connecting{
+            font-size: 24px;
+            padding-right: 5px;
+        }
+    }
+    &_closeRoom {
+        font-size: 24px;
+        text-align: center;
+        border-top: 1px solid #242b31;
+        padding-top: 15px;
+        font-weight: 500;
+        color: #242b31;
+    }
+    &_main{
+        width: 100%;
+        height: 100%;
+        padding: 0 0 25px;
+        border-radius: 8px;
+        box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.16);
+        background-color: #f2f2f2;
+        &_header{
+            width: 100%;
+            border-top-right-radius: 8px;
+            border-top-left-radius: 8px;
+            @include flexbox;
+            height: 59px;
+            justify-content: space-between;
+            background-color :#2b4fd8;
+            padding-top: 10px;
+            &_icon{
+                //@include flexbox;
+                flex-direction: row;
+                padding-left: 15px;
+                height: 85%;
+
+                i{
+                    font-size: 32px;
+                    color: #f2f2f2;
+                    padding-top: 8px;
+                }
+                span{
+                    padding-left: 10px;
+                    line-height: 35px;
+                    font-weight: 700;
+                    font-size: 18px;
+                    width: 120px;
+                    font-family: Roboto-Bold;
+                    color: #ffffff;
+                }
+            }
+            &_icon_out{
+                p{
+                    width: 15px;
+                    height: 5px;
+                    background-color: #ffffff;
+                    margin-right: 18px;
+                    margin-top: 15px;
+                    cursor: pointer;
+                }
+
+            }
+        }
+        &_body{
+            width: 100%;
+            height: 100%;
+            @include flexbox;
+            padding-right: 6px;
+            flex-direction: column;
+            &_box{
+                margin-top: 2px;
+                width: 100%;
+                height: calc(100% - 120px);
+                padding: 0 15px;
+                margin-bottom: 5px;
+                overflow-y: auto;
+                overflow-x: hidden;
+                &::-webkit-scrollbar {
+                    width: 0.5em;
+                }
+                &::-webkit-scrollbar-thumb{
+                    background-color: #b8b8b8;
+                    border-radius: 10px;                   ;
+                  }
+
+
+            }
+
+            &_input{
+                @include flexbox;
+                flex-direction:row;
+                align-items: center;
+                position: relative;
+                border-radius: 5px;
+                box-shadow: -3px -3px 0px 0 #ffffff, 3px 3px 0px 0 #d3d9e2;
+                background-color: #f2f2f2;
+                padding: 12px;
+                margin-top: 5px;
+                margin: 0 10px;
+                &_attach {
+                    color: #2b4fd8;
+                    font-size: 18px;
+                    padding-right: 15px;
+                    cursor: pointer;
+                }
+                input{
+                    border: none;
+                    background: none;
+                    color: #3c3e60;
+                    outline: none;
+                    width: calc(100% - 35px);
+                    font-size: 14px;
+                }
+                &_send{
+                    border: none;
+                    background: none;
+                    i{
+                        padding-left: 15px;
+                        font-size: 24px;
+                        color: #2b4fd8;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.progress-7 {
+    width: 80[x];
+    height: 12px;
+    margin-top: 9px;
+    -webkit-mask: radial-gradient(circle closest-side,#000 94%,#0000) left/20% 100%;
+    background: linear-gradient(#000 0 0) left/0% 100% no-repeat #ddd;
+    animation: p7 2s infinite steps(6);
+}
+@keyframes p7 {
+    100% {background-size:120% 100%}
+}

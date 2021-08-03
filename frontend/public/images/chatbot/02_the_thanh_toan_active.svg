@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_363" data-name="Union 363" d="M2,20a2,2,0,0,1-2-2V7H23V18a2,2,0,0,1-2,2Zm16-4.571v.786a1,1,0,0,0,2,0v-.786a1,1,0,1,0-2,0Zm-3,0v.786a1,1,0,0,0,2,0v-.786a1,1,0,0,0-2,0Zm-3,0v.786a1,1,0,0,0,2,0v-.786a1,1,0,0,0-2,0ZM0,5V2A2,2,0,0,1,2,0H21a2,2,0,0,1,2,2V5Z" transform="translate(159 2079)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Exclusion_92" x="-5" y="-6" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_02_the_thanh_toan_active" data-name="02_the_thanh_toan_active" transform="translate(23731 20201)">
+    <rect id="Rectangle_30674" data-name="Rectangle 30674" width="36" height="36" transform="translate(-23731 -20201)" fill="none"/>
+    <g id="Mask_Group_21367" data-name="Mask Group 21367" transform="translate(-23883 -22272)" clip-path="url(#clip-path)">
+      <g id="Group_36746" data-name="Group 36746">
+        <path id="Path_65304" data-name="Path 65304" d="M10,0H36A10,10,0,0,1,46,10V36A10,10,0,0,1,36,46H10A10,10,0,0,1,0,36V10A10,10,0,0,1,10,0Z" transform="translate(148 2066)" fill="#2b4fd8"/>
+        <g transform="matrix(1, 0, 0, 1, 152, 2071)" filter="url(#Exclusion_92)">
+          <path id="Exclusion_92-2" data-name="Exclusion 92" d="M36,46H10A10.011,10.011,0,0,1,0,36V10A10.011,10.011,0,0,1,10,0H36A10.011,10.011,0,0,1,46,10V36A10.011,10.011,0,0,1,36,46ZM11,20V31a2,2,0,0,0,2,2H32a2,2,0,0,0,2-2V20Zm2-7a2,2,0,0,0-2,2v3H34V15a2,2,0,0,0-2-2ZM30,30.214a1,1,0,0,1-1-1v-.786a1,1,0,1,1,2,0v.786A1,1,0,0,1,30,30.214Zm-3,0a1,1,0,0,1-1-1v-.786a1,1,0,1,1,2,0v.786A1,1,0,0,1,27,30.214Zm-3,0a1,1,0,0,1-1-1v-.786a1,1,0,0,1,2,0v.786A1,1,0,0,1,24,30.214Z" transform="translate(-4 -5)" fill="#f8f8f8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -228,3 +228,421 @@
 {"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-21T11:06:10.779Z"}
 {"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-21T11:07:05.269Z"}
 {"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-21T11:07:06.019Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T00:53:53.883Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T00:53:54.551Z"}
+{"message":"\u001b[0mGET /favicon.ico \u001b[33m404\u001b[0m 4.490 ms - 150\u001b[0m","level":"info","timestamp":"2021-07-22T00:54:55.698Z"}
+{"message":"\u001b[0mGET /user \u001b[33m404\u001b[0m 2.549 ms - 143\u001b[0m","level":"info","timestamp":"2021-07-22T01:11:16.960Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:15:10.263Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:15:10.942Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:22:06.300Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:22:07.086Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:23:55.676Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:23:56.344Z"}
+{"message":"\u001b[0mGET /user \u001b[33m404\u001b[0m 5.272 ms - 143\u001b[0m","level":"info","timestamp":"2021-07-22T01:24:39.710Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:25:03.711Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:25:04.449Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:25:15.818Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:25:16.471Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:25:21.321Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:25:21.955Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:26:24.762Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:26:25.448Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:26:51.570Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:26:52.218Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:31:52.196Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:31:52.793Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:33:00.616Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:33:01.307Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:35:52.314Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:35:52.988Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:37:39.609Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:37:40.366Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:38:00.301Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:38:00.850Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-22T01:41:01.853Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-22T01:41:02.527Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T06:43:36.761Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T06:43:37.506Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T06:48:15.749Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T06:48:16.372Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T06:49:29.465Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T06:49:30.137Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T06:51:27.534Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T06:51:28.206Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T06:52:21.550Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T06:52:22.098Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T07:00:55.163Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T07:00:57.138Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T07:05:27.250Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T07:05:28.348Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T07:08:01.968Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T07:08:02.015Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T07:37:44.665Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T07:37:44.694Z"}
+{"message":"Server started on port 5000: development","level":"info","timestamp":"2021-07-31T08:03:25.479Z"}
+{"message":"Successfully connected to the database","level":"info","timestamp":"2021-07-31T08:03:25.508Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxbkOA \u001b[33m404\u001b[0m 2.739 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:28.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxblrx \u001b[33m404\u001b[0m 0.712 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:34.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxbnJh \u001b[33m404\u001b[0m 0.379 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:40.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxboLq \u001b[33m404\u001b[0m 0.746 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:44.635Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxboXj \u001b[33m404\u001b[0m 1.411 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:45.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxbp11 \u001b[33m404\u001b[0m 1.093 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:47.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxbqF6 \u001b[33m404\u001b[0m 1.283 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:52.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxbriw \u001b[33m404\u001b[0m 1.477 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:03:58.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxbtAg \u001b[33m404\u001b[0m 1.298 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:04.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxbueG \u001b[33m404\u001b[0m 0.613 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:10.390Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxbw63 \u001b[33m404\u001b[0m 1.612 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:16.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxbxZ_ \u001b[33m404\u001b[0m 1.087 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:22.413Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxbz1Y \u001b[33m404\u001b[0m 0.994 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:28.438Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxb-VQ \u001b[33m404\u001b[0m 1.343 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:34.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxb_z4 \u001b[33m404\u001b[0m 0.361 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:40.393Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc1Tp \u001b[33m404\u001b[0m 0.604 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:46.588Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc2ua \u001b[33m404\u001b[0m 0.567 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:52.393Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc4MF \u001b[33m404\u001b[0m 1.765 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:04:58.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc5q7 \u001b[33m404\u001b[0m 0.945 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:04.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc7Hz \u001b[33m404\u001b[0m 0.645 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:10.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc8lc \u001b[33m404\u001b[0m 1.106 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:16.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcADH \u001b[33m404\u001b[0m 0.600 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:22.390Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcBh3 \u001b[33m404\u001b[0m 0.327 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:28.391Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcD8r \u001b[33m404\u001b[0m 0.432 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:34.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcEcc \u001b[33m404\u001b[0m 1.205 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:40.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcG4Q \u001b[33m404\u001b[0m 1.178 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:46.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcHYA \u001b[33m404\u001b[0m 1.034 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:52.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcI_u \u001b[33m404\u001b[0m 1.353 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:05:58.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcKTj \u001b[33m404\u001b[0m 0.565 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:04.550Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcLxL \u001b[33m404\u001b[0m 0.486 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:10.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcNPE \u001b[33m404\u001b[0m 0.685 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:16.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcOsz \u001b[33m404\u001b[0m 0.520 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:22.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcQ5O \u001b[33m404\u001b[0m 0.483 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:27.422Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcRYs \u001b[33m404\u001b[0m 0.380 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:33.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcT0Y \u001b[33m404\u001b[0m 0.355 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:39.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcUUD \u001b[33m404\u001b[0m 0.461 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:45.393Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcVyp \u001b[33m404\u001b[0m 0.507 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:51.448Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcXPi \u001b[33m404\u001b[0m 0.465 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:06:57.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcYtb \u001b[33m404\u001b[0m 0.356 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:03.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcaLc \u001b[33m404\u001b[0m 0.574 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:09.419Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxcbo- \u001b[33m404\u001b[0m 1.038 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:15.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcdGr \u001b[33m404\u001b[0m 1.452 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:21.411Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcekS \u001b[33m404\u001b[0m 0.318 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:27.392Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcgCK \u001b[33m404\u001b[0m 0.388 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:33.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxchg3 \u001b[33m404\u001b[0m 1.500 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:39.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxcj7l \u001b[33m404\u001b[0m 1.338 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:45.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxckba \u001b[33m404\u001b[0m 1.676 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:51.415Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxcm3K \u001b[33m404\u001b[0m 1.060 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:07:57.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcnX0 \u001b[33m404\u001b[0m 3.250 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:03.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxco-d \u001b[33m404\u001b[0m 1.225 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:09.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcqSO \u001b[33m404\u001b[0m 1.274 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:15.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcrwC \u001b[33m404\u001b[0m 0.925 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:21.459Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxctO4 \u001b[33m404\u001b[0m 1.009 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:27.414Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxcurh \u001b[33m404\u001b[0m 0.906 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:33.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcwJQ \u001b[33m404\u001b[0m 1.020 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:39.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxcxnL \u001b[33m404\u001b[0m 1.506 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:45.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxczEy \u001b[33m404\u001b[0m 1.373 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:51.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxc-in \u001b[33m404\u001b[0m 1.168 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:08:57.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd0AV \u001b[33m404\u001b[0m 1.282 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:03.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd1eH \u001b[33m404\u001b[0m 1.458 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:09.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd35y \u001b[33m404\u001b[0m 1.023 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:15.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd4Zp \u001b[33m404\u001b[0m 1.018 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:21.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd61P \u001b[33m404\u001b[0m 1.487 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:27.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd7V9 \u001b[33m404\u001b[0m 1.429 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:33.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd8z5 \u001b[33m404\u001b[0m 1.507 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:39.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdAQe \u001b[33m404\u001b[0m 0.987 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:45.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdBuW \u001b[33m404\u001b[0m 1.026 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:51.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdDML \u001b[33m404\u001b[0m 0.995 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:09:57.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdEq4 \u001b[33m404\u001b[0m 1.294 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:03.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdGHm \u001b[33m404\u001b[0m 0.991 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:09.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdHlX \u001b[33m404\u001b[0m 0.548 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:15.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdJDH \u001b[33m404\u001b[0m 1.024 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:21.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdKgy \u001b[33m404\u001b[0m 0.959 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:27.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdM8o \u001b[33m404\u001b[0m 1.280 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:33.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdNcV \u001b[33m404\u001b[0m 1.271 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:39.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdP4I \u001b[33m404\u001b[0m 1.056 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:45.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdQY1 \u001b[33m404\u001b[0m 1.456 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:51.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdR_g \u001b[33m404\u001b[0m 1.085 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:10:57.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdTTR \u001b[33m404\u001b[0m 1.601 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:03.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdUxA \u001b[33m404\u001b[0m 0.978 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:09.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdWOz \u001b[33m404\u001b[0m 3.192 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:15.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdXsi \u001b[33m404\u001b[0m 1.027 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:21.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdZKO \u001b[33m404\u001b[0m 1.801 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:27.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdaoA \u001b[33m404\u001b[0m 1.379 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:33.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdcF- \u001b[33m404\u001b[0m 1.017 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:39.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxddji \u001b[33m404\u001b[0m 0.992 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:45.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdfBS \u001b[33m404\u001b[0m 1.254 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:51.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdgfL \u001b[33m404\u001b[0m 1.420 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:11:57.411Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxdi6_ \u001b[33m404\u001b[0m 1.493 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:03.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxdjar \u001b[33m404\u001b[0m 0.298 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:09.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxdl2T \u001b[33m404\u001b[0m 0.970 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:15.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdmWJ \u001b[33m404\u001b[0m 0.945 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:21.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxdn-4 \u001b[33m404\u001b[0m 1.442 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:27.412Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdpRo \u001b[33m404\u001b[0m 0.906 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:33.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdqvY \u001b[33m404\u001b[0m 0.961 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:39.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdsNA \u001b[33m404\u001b[0m 0.998 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:45.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxdtr6 \u001b[33m404\u001b[0m 1.254 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:51.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdvIl \u001b[33m404\u001b[0m 0.819 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:12:57.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdwmN \u001b[33m404\u001b[0m 1.480 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:03.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxdyEI \u001b[33m404\u001b[0m 0.944 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:09.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxdzhy \u001b[33m404\u001b[0m 1.576 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:15.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxd_9n \u001b[33m404\u001b[0m 0.938 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:21.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe0dN \u001b[33m404\u001b[0m 1.295 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:27.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe25D \u001b[33m404\u001b[0m 0.900 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:33.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe3Z2 \u001b[33m404\u001b[0m 1.350 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:39.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe50s \u001b[33m404\u001b[0m 1.294 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:45.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe6UU \u001b[33m404\u001b[0m 0.956 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:51.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe7yD \u001b[33m404\u001b[0m 0.933 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:13:57.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe9Q2 \u001b[33m404\u001b[0m 0.505 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:03.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeAto \u001b[33m404\u001b[0m 0.936 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:09.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeCLQ \u001b[33m404\u001b[0m 1.045 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:15.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeDpJ \u001b[33m404\u001b[0m 0.895 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:21.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeFG_ \u001b[33m404\u001b[0m 1.373 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:27.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeGkp \u001b[33m404\u001b[0m 0.788 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:33.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeICb \u001b[33m404\u001b[0m 1.409 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:39.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeJgI \u001b[33m404\u001b[0m 0.896 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:45.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeL7- \u001b[33m404\u001b[0m 1.307 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:51.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeMbo \u001b[33m404\u001b[0m 0.859 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:14:57.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeO3P \u001b[33m404\u001b[0m 1.563 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:03.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxePXJ \u001b[33m404\u001b[0m 0.863 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:09.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeQ_6 \u001b[33m404\u001b[0m 1.116 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:15.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeSSi \u001b[33m404\u001b[0m 0.911 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:21.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeTwO \u001b[33m404\u001b[0m 1.230 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:27.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeVOH \u001b[33m404\u001b[0m 0.899 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:33.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeWry \u001b[33m404\u001b[0m 1.010 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:39.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeYJi \u001b[33m404\u001b[0m 1.332 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:45.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeZnZ \u001b[33m404\u001b[0m 1.650 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:51.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxebFF \u001b[33m404\u001b[0m 0.276 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:15:57.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxecj2 \u001b[33m404\u001b[0m 1.560 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:03.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeeAo \u001b[33m404\u001b[0m 0.858 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:09.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxefeV \u001b[33m404\u001b[0m 0.891 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:15.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxeh6H \u001b[33m404\u001b[0m 0.840 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:21.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeiZ- \u001b[33m404\u001b[0m 1.190 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:27.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxek1p \u001b[33m404\u001b[0m 0.981 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:33.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxelVU \u001b[33m404\u001b[0m 0.869 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:39.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxemzL \u001b[33m404\u001b[0m 0.862 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:45.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeoR2 \u001b[33m404\u001b[0m 0.863 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:51.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxepup \u001b[33m404\u001b[0m 0.761 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:16:57.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxerMQ \u001b[33m404\u001b[0m 0.922 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:03.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxesqL \u001b[33m404\u001b[0m 1.085 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:09.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeuHu \u001b[33m404\u001b[0m 0.957 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:15.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxevls \u001b[33m404\u001b[0m 0.859 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:21.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxexDO \u001b[33m404\u001b[0m 1.290 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:27.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxeyhH \u001b[33m404\u001b[0m 0.882 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:33.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe-91 \u001b[33m404\u001b[0m 1.070 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:39.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxe_cn \u001b[33m404\u001b[0m 0.876 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:45.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf14Y \u001b[33m404\u001b[0m 1.384 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:51.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf2YD \u001b[33m404\u001b[0m 0.895 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:17:57.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf3_- \u001b[33m404\u001b[0m 0.924 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:03.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf5Ts \u001b[33m404\u001b[0m 0.952 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:09.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf6xa \u001b[33m404\u001b[0m 1.216 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:15.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf8PL \u001b[33m404\u001b[0m 0.835 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:21.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf9su \u001b[33m404\u001b[0m 1.053 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:27.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfBKp \u001b[33m404\u001b[0m 0.847 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:33.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfCoa \u001b[33m404\u001b[0m 1.487 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:39.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfEGI \u001b[33m404\u001b[0m 0.808 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:45.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfFk0 \u001b[33m404\u001b[0m 1.229 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:51.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfHBm \u001b[33m404\u001b[0m 0.749 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:18:57.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfIfY \u001b[33m404\u001b[0m 0.953 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:03.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfK7B \u001b[33m404\u001b[0m 0.871 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:09.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfLax \u001b[33m404\u001b[0m 0.832 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:15.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfN2f \u001b[33m404\u001b[0m 0.424 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:21.391Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfOWN \u001b[33m404\u001b[0m 1.285 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:27.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfP-D \u001b[33m404\u001b[0m 0.856 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:33.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfRRu \u001b[33m404\u001b[0m 0.844 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:39.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfSvr \u001b[33m404\u001b[0m 0.748 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:45.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfUNS \u001b[33m404\u001b[0m 1.414 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:51.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfVr9 \u001b[33m404\u001b[0m 0.750 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:19:57.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfXI- \u001b[33m404\u001b[0m 1.185 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:03.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfYmo \u001b[33m404\u001b[0m 0.757 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:09.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfaEU \u001b[33m404\u001b[0m 0.925 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:15.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfbiA \u001b[33m404\u001b[0m 0.849 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:21.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfdA2 \u001b[33m404\u001b[0m 2.117 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:27.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfedk \u001b[33m404\u001b[0m 0.772 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:33.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfg5X \u001b[33m404\u001b[0m 0.875 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:39.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfhZD \u001b[33m404\u001b[0m 0.854 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:45.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfj0y \u001b[33m404\u001b[0m 0.791 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:51.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfkUr \u001b[33m404\u001b[0m 1.137 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:20:57.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxflyS \u001b[33m404\u001b[0m 1.341 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:03.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfnQD \u001b[33m404\u001b[0m 0.874 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:09.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfou1 \u001b[33m404\u001b[0m 0.854 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:15.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfqLp \u001b[33m404\u001b[0m 0.844 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:21.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfrpU \u001b[33m404\u001b[0m 0.985 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:27.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxftHB \u001b[33m404\u001b[0m 0.846 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:33.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfukw \u001b[33m404\u001b[0m 0.873 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:39.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxfwCi \u001b[33m404\u001b[0m 1.276 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:45.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfxgb \u001b[33m404\u001b[0m 1.244 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:51.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxfz8D \u001b[33m404\u001b[0m 1.031 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:21:57.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxf-c0 \u001b[33m404\u001b[0m 0.417 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:03.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg03k \u001b[33m404\u001b[0m 0.382 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:09.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg1XW \u001b[33m404\u001b[0m 0.867 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:15.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg2_9 \u001b[33m404\u001b[0m 0.859 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:21.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg4T3 \u001b[33m404\u001b[0m 0.884 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:27.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg5wo \u001b[33m404\u001b[0m 0.843 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:33.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg7OU \u001b[33m404\u001b[0m 0.931 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:39.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg8sA \u001b[33m404\u001b[0m 0.845 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:45.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgAJx \u001b[33m404\u001b[0m 0.872 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:51.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgBnf \u001b[33m404\u001b[0m 0.875 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:22:57.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgDFW \u001b[33m404\u001b[0m 1.079 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:03.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgEjB \u001b[33m404\u001b[0m 0.770 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:09.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgGAv \u001b[33m404\u001b[0m 0.780 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:15.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgHef \u001b[33m404\u001b[0m 0.838 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:21.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgJ6P \u001b[33m404\u001b[0m 0.911 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:27.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgKaM \u001b[33m404\u001b[0m 0.839 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:33.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgM23 \u001b[33m404\u001b[0m 0.784 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:39.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgNVo \u001b[33m404\u001b[0m 0.838 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:45.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgOzQ \u001b[33m404\u001b[0m 1.066 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:51.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgQRF \u001b[33m404\u001b[0m 0.308 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:23:57.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgRv6 \u001b[33m404\u001b[0m 1.099 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:03.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgTMm \u001b[33m404\u001b[0m 0.752 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:09.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgUqS \u001b[33m404\u001b[0m 1.007 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:15.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgWIB \u001b[33m404\u001b[0m 0.905 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:21.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgXlw \u001b[33m404\u001b[0m 0.779 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:27.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgZDn \u001b[33m404\u001b[0m 0.840 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:33.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgahX \u001b[33m404\u001b[0m 1.123 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:39.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgc98 \u001b[33m404\u001b[0m 0.753 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:45.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgdd4 \u001b[33m404\u001b[0m 0.857 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:51.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgf4d \u001b[33m404\u001b[0m 0.852 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:24:57.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxggYT \u001b[33m404\u001b[0m 1.741 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:03.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgi0F \u001b[33m404\u001b[0m 0.786 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:09.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgjTv \u001b[33m404\u001b[0m 1.357 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:15.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgkxp \u001b[33m404\u001b[0m 0.749 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:21.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgmPP \u001b[33m404\u001b[0m 1.465 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:27.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgntB \u001b[33m404\u001b[0m 0.926 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:33.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgpL2 \u001b[33m404\u001b[0m 1.487 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:39.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgqoj \u001b[33m404\u001b[0m 0.851 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:45.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgsGc \u001b[33m404\u001b[0m 0.881 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:51.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgtkK \u001b[33m404\u001b[0m 0.836 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:25:57.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgvBz \u001b[33m404\u001b[0m 0.871 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:03.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgwfi \u001b[33m404\u001b[0m 0.790 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:09.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxgy7b \u001b[33m404\u001b[0m 1.303 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:15.417Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxgzbI \u001b[33m404\u001b[0m 0.867 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:21.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxg_2z \u001b[33m404\u001b[0m 0.497 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:27.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh0Wl \u001b[33m404\u001b[0m 0.995 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:33.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh1-Q \u001b[33m404\u001b[0m 0.860 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:39.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh3SA \u001b[33m404\u001b[0m 0.830 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:45.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh4vy \u001b[33m404\u001b[0m 1.393 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:51.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh6Nm \u001b[33m404\u001b[0m 0.844 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:26:57.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh7rO \u001b[33m404\u001b[0m 0.937 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:03.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh9JL \u001b[33m404\u001b[0m 0.830 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:09.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhAmt \u001b[33m404\u001b[0m 1.670 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:15.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhCEm \u001b[33m404\u001b[0m 0.758 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:21.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhDib \u001b[33m404\u001b[0m 1.389 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:27.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhFAI \u001b[33m404\u001b[0m 0.669 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:33.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhGe4 \u001b[33m404\u001b[0m 0.901 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:39.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhI5e \u001b[33m404\u001b[0m 0.859 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:45.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhJZT \u001b[33m404\u001b[0m 0.832 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:51.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhL1G \u001b[33m404\u001b[0m 0.795 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:27:57.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhMV3 \u001b[33m404\u001b[0m 0.953 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:03.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhNye \u001b[33m404\u001b[0m 0.762 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:09.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhPQN \u001b[33m404\u001b[0m 0.856 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:15.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhQuJ \u001b[33m404\u001b[0m 0.847 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:21.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhSM4 \u001b[33m404\u001b[0m 0.878 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:27.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhTpk \u001b[33m404\u001b[0m 0.890 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:33.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhVHb \u001b[33m404\u001b[0m 1.214 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:39.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhWlC \u001b[33m404\u001b[0m 1.557 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:45.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhYD0 \u001b[33m404\u001b[0m 0.867 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:51.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhZgg \u001b[33m404\u001b[0m 0.468 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:28:57.393Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhb8U \u001b[33m404\u001b[0m 1.428 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:03.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhccL \u001b[33m404\u001b[0m 0.911 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:09.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhe3w \u001b[33m404\u001b[0m 1.324 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:15.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhfXn \u001b[33m404\u001b[0m 0.862 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:21.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhg_Z \u001b[33m404\u001b[0m 0.861 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:27.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhiTK \u001b[33m404\u001b[0m 1.074 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:33.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhjwx \u001b[33m404\u001b[0m 0.792 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:39.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhlOh \u001b[33m404\u001b[0m 0.823 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:45.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhmsS \u001b[33m404\u001b[0m 0.868 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:51.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhoKI \u001b[33m404\u001b[0m 1.550 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:29:57.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhpnw \u001b[33m404\u001b[0m 0.843 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:03.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhrFr \u001b[33m404\u001b[0m 0.808 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:09.414Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhsjY \u001b[33m404\u001b[0m 0.900 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:15.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhuB8 \u001b[33m404\u001b[0m 0.950 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:21.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhvez \u001b[33m404\u001b[0m 0.854 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:27.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxhx6o \u001b[33m404\u001b[0m 0.825 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:33.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxhyaP \u001b[33m404\u001b[0m 1.053 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:39.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh-2H \u001b[33m404\u001b[0m 0.826 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:45.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxh_W4 \u001b[33m404\u001b[0m 1.422 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:51.416Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi0zo \u001b[33m404\u001b[0m 0.462 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:30:57.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi2RT \u001b[33m404\u001b[0m 0.797 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:03.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi3vI \u001b[33m404\u001b[0m 0.745 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:09.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi5Mt \u001b[33m404\u001b[0m 0.880 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:15.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi6qr \u001b[33m404\u001b[0m 1.017 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:21.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi8IV \u001b[33m404\u001b[0m 1.478 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:27.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi9mE \u001b[33m404\u001b[0m 0.747 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:33.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiBE2 \u001b[33m404\u001b[0m 1.115 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:39.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiChr \u001b[33m404\u001b[0m 0.856 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:45.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiE9P \u001b[33m404\u001b[0m 0.850 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:51.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiFda \u001b[33m404\u001b[0m 0.516 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:31:57.420Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiH52 \u001b[33m404\u001b[0m 1.462 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:03.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiIYl \u001b[33m404\u001b[0m 0.834 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:09.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiK0O \u001b[33m404\u001b[0m 1.277 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:15.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiLUA \u001b[33m404\u001b[0m 0.864 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:21.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiMxz \u001b[33m404\u001b[0m 1.354 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:27.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiOPe \u001b[33m404\u001b[0m 0.841 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:33.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiPtQ \u001b[33m404\u001b[0m 0.902 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:39.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiRLH \u001b[33m404\u001b[0m 0.816 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:45.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiSow \u001b[33m404\u001b[0m 1.065 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:51.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiUGr \u001b[33m404\u001b[0m 0.815 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:32:57.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiVkZ \u001b[33m404\u001b[0m 1.046 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:03.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiXCH \u001b[33m404\u001b[0m 0.621 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:09.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiYfv \u001b[33m404\u001b[0m 1.399 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:15.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxia7g \u001b[33m404\u001b[0m 0.707 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:21.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxibbV \u001b[33m404\u001b[0m 1.389 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:27.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxid3F \u001b[33m404\u001b[0m 1.082 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:33.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxieWu \u001b[33m404\u001b[0m 0.822 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:39.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxif-p \u001b[33m404\u001b[0m 0.403 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:45.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxihSa \u001b[33m404\u001b[0m 0.432 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:51.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiiwM \u001b[33m404\u001b[0m 0.800 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:33:57.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxikNu \u001b[33m404\u001b[0m 0.839 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:03.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxilrn \u001b[33m404\u001b[0m 0.640 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:09.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxinJR \u001b[33m404\u001b[0m 0.585 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:15.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxionJ \u001b[33m404\u001b[0m 0.786 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:21.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiqEt \u001b[33m404\u001b[0m 1.107 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:27.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxiric \u001b[33m404\u001b[0m 0.849 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:33.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxitAY \u001b[33m404\u001b[0m 1.390 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:39.414Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxiueL \u001b[33m404\u001b[0m 1.292 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:45.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxiw64 \u001b[33m404\u001b[0m 1.530 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:51.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxixZh \u001b[33m404\u001b[0m 0.797 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:34:57.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxiz1X \u001b[33m404\u001b[0m 0.830 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:03.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi-V7 \u001b[33m404\u001b[0m 0.803 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:09.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxi_yw \u001b[33m404\u001b[0m 1.291 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:15.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxj1Qg \u001b[33m404\u001b[0m 0.710 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:21.396Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxj2uW \u001b[33m404\u001b[0m 1.360 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:27.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxj4ML \u001b[33m404\u001b[0m 0.789 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:33.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxj5pt \u001b[33m404\u001b[0m 0.828 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:39.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxj7Hi \u001b[33m404\u001b[0m 0.251 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:45.393Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxj8lV \u001b[33m404\u001b[0m 0.807 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:51.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjADG \u001b[33m404\u001b[0m 4.635 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:35:57.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjBgy \u001b[33m404\u001b[0m 1.439 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:03.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjD8j \u001b[33m404\u001b[0m 0.738 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:09.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjEcV \u001b[33m404\u001b[0m 0.838 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:15.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjG4K \u001b[33m404\u001b[0m 0.792 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:21.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjHY1 \u001b[33m404\u001b[0m 1.223 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:27.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjI_m \u001b[33m404\u001b[0m 0.813 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:33.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjKTX \u001b[33m404\u001b[0m 0.832 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:39.404Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjLxL \u001b[33m404\u001b[0m 0.971 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:45.407Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjNP5 \u001b[33m404\u001b[0m 1.419 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:51.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjOsj \u001b[33m404\u001b[0m 0.799 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:36:57.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjQKU \u001b[33m404\u001b[0m 1.278 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:03.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjRoL \u001b[33m404\u001b[0m 0.799 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:09.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjTG5 \u001b[33m404\u001b[0m 0.840 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:15.409Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjUji \u001b[33m404\u001b[0m 1.286 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:21.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjWBT \u001b[33m404\u001b[0m 1.342 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:27.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjXfA \u001b[33m404\u001b[0m 2.705 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:33.399Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjZ71 \u001b[33m404\u001b[0m 1.161 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:39.405Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxjaai \u001b[33m404\u001b[0m 0.816 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:45.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxjc2Y \u001b[33m404\u001b[0m 1.269 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:51.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjdW8 \u001b[33m404\u001b[0m 1.089 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:37:57.395Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxje-3 \u001b[33m404\u001b[0m 0.800 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:03.406Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjgRh \u001b[33m404\u001b[0m 0.783 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:09.398Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjhvS \u001b[33m404\u001b[0m 0.830 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:15.400Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjjNK \u001b[33m404\u001b[0m 3.008 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:21.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxjkr3 \u001b[33m404\u001b[0m 1.299 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:27.408Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjmIl \u001b[33m404\u001b[0m 1.030 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:33.402Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxjnmb \u001b[33m404\u001b[0m 1.348 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:39.410Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjpED \u001b[33m404\u001b[0m 1.075 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:45.401Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxjqht \u001b[33m404\u001b[0m 0.877 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:51.397Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=Nhxjs9n \u001b[33m404\u001b[0m 0.780 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:38:57.403Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhxjtdT \u001b[33m404\u001b[0m 0.446 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T08:39:03.394Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhyhVej \u001b[33m404\u001b[0m 0.967 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T13:08:20.089Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhyhXUH \u001b[33m404\u001b[0m 0.559 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T13:08:25.623Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhyhYy4 \u001b[33m404\u001b[0m 0.487 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T13:08:31.629Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhyhaPk \u001b[33m404\u001b[0m 0.309 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T13:08:37.625Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhyhbtZ \u001b[33m404\u001b[0m 0.351 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T13:08:43.623Z"}
+{"message":"\u001b[0mGET /socket.io/?EIO=4&transport=polling&t=NhyhdLH \u001b[33m404\u001b[0m 0.254 ms - 149\u001b[0m","level":"info","timestamp":"2021-07-31T13:08:49.621Z"}

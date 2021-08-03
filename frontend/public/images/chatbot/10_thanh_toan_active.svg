@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Exclusion_219" data-name="Exclusion 219" d="M20,22H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H15.6a2,2,0,0,1,2,2V14.3H22V20A2,2,0,0,1,20,22Zm-2.4-5.5v2.3a1,1,0,0,0,1,1h.2a1,1,0,0,0,1-1V16.5ZM4.4,11a1.1,1.1,0,0,0,0,2.2H6.6a1.1,1.1,0,0,0,0-2.2Zm0-3.3a1.1,1.1,0,1,0,0,2.2H9.9a1.1,1.1,0,1,0,0-2.2Zm0-3.3a1.1,1.1,0,0,0,0,2.2H9.9a1.1,1.1,0,1,0,0-2.2Z" transform="translate(220.961 64.961)" fill="#f8f8f8"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_30314" data-name="Rectangle 30314" width="50" height="50" rx="10" transform="translate(0.21 0.21)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Exclusion_218" x="-8.001" y="-8" width="56" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_10_thanh_toan_active" data-name="10_thanh_toan_active" transform="translate(11484 4651)">
+    <g id="Group_55365" data-name="Group 55365" transform="translate(0 -1)">
+      <g id="Thanhtoan" transform="translate(-11484 -4650)">
+        <rect id="Rectangle_30371" data-name="Rectangle 30371" width="36" height="36" fill="none"/>
+        <g id="Mask_Group_21631" data-name="Mask Group 21631" transform="translate(-213.961 -57.961)" clip-path="url(#clip-path)">
+          <g id="Mask_Group_21630" data-name="Mask Group 21630" transform="translate(206.751 50.751)" clip-path="url(#clip-path-2)">
+            <path id="Path_66204" data-name="Path 66204" d="M10.961,0h28.5A10.961,10.961,0,0,1,50.42,10.961v28.5A10.961,10.961,0,0,1,39.459,50.42h-28.5A10.961,10.961,0,0,1,0,39.459v-28.5A10.961,10.961,0,0,1,10.961,0Z" transform="translate(0 0)" fill="#4064ec"/>
+            <g transform="matrix(1, 0, 0, 1, 7.21, 7.21)" filter="url(#Exclusion_218)">
+              <path id="Exclusion_218-2" data-name="Exclusion 218" d="M40,50H10A10.011,10.011,0,0,1,0,40V10A10.011,10.011,0,0,1,10,0H40A10.011,10.011,0,0,1,50,10V40A10.011,10.011,0,0,1,40,50Zm-23.87-35.87a2,2,0,0,0-2,2V33.87a2,2,0,0,0,2,2H33.87a2,2,0,0,0,2-2V28.262H31.523V16.131a2,2,0,0,0-2-2ZM32.7,33.7h-.174a1,1,0,0,1-1-1V30.435H33.7V32.7A1,1,0,0,1,32.7,33.7ZM20.652,27.175H18.479a1.087,1.087,0,0,1,0-2.174h2.174a1.087,1.087,0,1,1,0,2.174Zm3.261-3.261H18.479a1.087,1.087,0,1,1,0-2.174h5.434a1.087,1.087,0,1,1,0,2.174Zm0-3.262H18.479a1.087,1.087,0,1,1,0-2.174h5.434a1.087,1.087,0,1,1,0,2.174Z" transform="translate(-7 -7)" fill="#f8f8f8"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

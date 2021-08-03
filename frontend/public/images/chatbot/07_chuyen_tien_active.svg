@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_393" data-name="Union 393" d="M-213.956-628.854H-225l0-4.4h11.044v-2.267l4.478,2.236.047.023.016.008,4.415,2.2-4.4,2.2-.075.038-1.515.756-2.964,1.48Zm-5.052-10.681-1.515-.757-.074-.037-4.4-2.2,4.415-2.2.015-.008.047-.023,4.478-2.237v2.268H-205l0,4.4h-11.041v2.273Z" transform="translate(295 711.791)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Rectangle_30299" x="-11" y="-11" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#2b4fd8" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_30301" data-name="Rectangle 30301" width="46" height="46" rx="10" transform="translate(671 1003)" fill="#fff"/>
+    </clipPath>
+    <filter id="Exclusion_213" x="-6" y="-6" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_07_chuyen_tien_active" data-name="07_chuyen_tien_active" transform="translate(11589 4746)">
+    <rect id="Rectangle_30368" data-name="Rectangle 30368" width="36" height="36" transform="translate(-11589 -4746)" fill="none"/>
+    <g id="Mask_Group_21627" data-name="Mask Group 21627" transform="translate(-11651 -4803)" clip-path="url(#clip-path)">
+      <g id="Group_37499" data-name="Group 37499" transform="translate(-614 -950)">
+        <g transform="matrix(1, 0, 0, 1, 676, 1007)" filter="url(#Rectangle_30299)">
+          <rect id="Rectangle_30299-2" data-name="Rectangle 30299" width="46" height="46" rx="10" transform="translate(-5 -5)" fill="#fff"/>
+        </g>
+        <g id="Mask_Group_21626" data-name="Mask Group 21626" transform="translate(0 -1)" clip-path="url(#clip-path-2)">
+          <path id="Path_66180" data-name="Path 66180" d="M10,0H36A10,10,0,0,1,46,10V36A10,10,0,0,1,36,46H10A10,10,0,0,1,0,36V10A10,10,0,0,1,10,0Z" transform="translate(671 1003)" fill="#4064ec"/>
+          <g transform="matrix(1, 0, 0, 1, 676, 1008)" filter="url(#Exclusion_213)">
+            <path id="Exclusion_213-2" data-name="Exclusion 213" d="M36,46H10A10.011,10.011,0,0,1,0,36V10A10.011,10.011,0,0,1,10,0H36A10.011,10.011,0,0,1,46,10V36A10.011,10.011,0,0,1,36,46ZM13,26.534l0,4.4H24.044v2.272l2.964-1.48,1.515-.756.075-.037,4.4-2.2-4.415-2.2-.016-.008-.047-.023-4.478-2.236v2.268Zm8.957-13.743-4.478,2.236-.048.023-.015.008L13,17.262l4.4,2.2.075.037,1.515.756,2.964,1.48V19.462H33l0-4.4H21.956Z" transform="translate(-5 -5)" fill="#f8f8f8"/>
+          </g>
+        </g>
+        <g id="Rectangle_30302" data-name="Rectangle 30302" transform="translate(671 1002)" fill="none" stroke="#fff" stroke-width="1">
+          <rect width="46" height="46" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="45" height="45" rx="9.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

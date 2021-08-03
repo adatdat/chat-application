@@ -1,0 +1,70 @@
+.ant-form-item {
+    margin-bottom: 0 !important;
+}
+.ant-picker {
+    height: 100%;
+}
+
+.ant-picker-suffix {
+    color: #fff;
+}
+.custom_select { 
+    width: 100%;
+    .ant-input {
+        font-size: 16px;
+        height: 35px;
+        box-shadow: none;
+        border-radius: 3px;
+        border: 1px solid #d2d2d2;
+    }
+    .ant-select.ant-select-single.ant-select-show-arrow {
+        font-size: 16px;
+        height: 35px;
+        box-shadow: none;
+        border-radius: 3px;
+        border: 1px solid #d2d2d2;
+    }
+   
+}
+.form_antd_custom{
+    .ant-row.ant-form-item{
+                .ant-col.ant-form-item-control{
+                    .ant-form-item-control-input{
+                        .ant-form-item-control-input-content{
+                            
+                            span.ant-select-arrow{
+                                color: #0080ff !important;
+                                .ant-select-arrow .anticon {
+                                    display: block;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+}
+
+.form_antd_select_custom{
+    .ant-row.ant-form-item{
+                .ant-col.ant-form-item-control{
+                    .ant-form-item-control-input{
+                        .ant-form-item-control-input-content{
+                            .ant-select.ant-select-single.ant-select-show-arrow {
+                                border: 1px solid #d9d9d9;
+                                height: 40px;
+                                .ant-select-selector{
+                                    .ant-select-selection-placeholder{
+                                        padding-top: 4px;
+                                    }
+                                }
+                            }
+                            span.ant-select-arrow{
+                                .ant-select-arrow .anticon {
+                                    display: block;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+}

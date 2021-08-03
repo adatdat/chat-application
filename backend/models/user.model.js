@@ -7,9 +7,13 @@ const userChema = new mongoose.Schema({
   },
   email: {
     type: String
+  },
+  password: {
+    type: String,
+    required: true
   }
 });
 
-const User = mongoose.model('User', userChema);
+const UserModel = mongoose.model('User', userChema);
 
-export default User;
+export default UserModel;

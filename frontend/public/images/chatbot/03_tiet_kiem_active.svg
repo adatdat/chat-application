@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_715" data-name="Union 715" d="M10.153,21.306H6.71V18.059A8.707,8.707,0,0,1,2.4,12.612H0V8.177H2.4A8.712,8.712,0,0,1,5.7,3.367V0h.593L7.516,2.354A8.613,8.613,0,0,1,10.8,1.709h8.022a8.692,8.692,0,0,1,8.594,7.412,1.054,1.054,0,1,0,.968-1.471V6.566a2.139,2.139,0,0,1,0,4.278,2.114,2.114,0,0,1-.879-.19,8.583,8.583,0,0,1-1.06,3.91A8.793,8.793,0,0,1,23.825,17.5V21.3h-3.45V18.943a8.833,8.833,0,0,1-1.552.139H10.8c-.2,0-.411-.008-.646-.025V21.3h0ZM5.27,7.878A1.239,1.239,0,1,0,6.509,6.638,1.24,1.24,0,0,0,5.27,7.878Z" transform="translate(75 95)" fill="#f8f8f8"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_29425" data-name="Rectangle 29425" width="46" height="46" rx="10" transform="translate(774 863)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Exclusion_33" x="-5.738" y="-6.347" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_03_tiet_kiem_active" data-name="03_tiet_kiem_active" transform="translate(-5 -85)">
+    <g id="Mask_Group_22683" data-name="Mask Group 22683" transform="translate(-67 -3)" clip-path="url(#clip-path)">
+      <g id="tiet-kiem" transform="translate(67.262 82.653)">
+        <g id="Mask_Group_21327" data-name="Mask Group 21327" transform="translate(-774 -863)" clip-path="url(#clip-path-2)">
+          <path id="Path_65156" data-name="Path 65156" d="M10,0H36A10,10,0,0,1,46,10V36A10,10,0,0,1,36,46H10A10,10,0,0,1,0,36V10A10,10,0,0,1,10,0Z" transform="translate(774 863)" fill="#4064ec"/>
+          <g transform="matrix(1, 0, 0, 1, 778.74, 868.35)" filter="url(#Exclusion_33)">
+            <path id="Exclusion_33-2" data-name="Exclusion 33" d="M36,46H10A10.011,10.011,0,0,1,0,36V10A10.011,10.011,0,0,1,10,0H36A10.011,10.011,0,0,1,46,10V36A10.011,10.011,0,0,1,36,46ZM7.738,20.524v4.434h2.4a8.706,8.706,0,0,0,4.308,5.447v3.246h3.444V31.4c.229.017.44.025.646.025h8.022a8.814,8.814,0,0,0,1.552-.139v2.362h3.45V29.845a8.773,8.773,0,0,0,2.621-2.934A8.559,8.559,0,0,0,35.244,23a2.115,2.115,0,0,0,.879.19,2.139,2.139,0,0,0,0-4.278V20a1.055,1.055,0,1,1-.968,1.472,8.692,8.692,0,0,0-8.594-7.412H18.539a8.613,8.613,0,0,0-3.285.644l-1.225-2.354h-.593v3.367a8.717,8.717,0,0,0-3.295,4.81Zm6.509.94a1.239,1.239,0,1,1,1.239-1.239A1.241,1.241,0,0,1,14.247,21.464Z" transform="translate(-4.74 -5.35)" fill="#f8f8f8"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_41479" data-name="Rectangle 41479" width="36" height="36" transform="translate(5 85)" fill="none"/>
+  </g>
+</svg>

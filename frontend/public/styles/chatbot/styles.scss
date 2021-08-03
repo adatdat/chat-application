@@ -1,0 +1,68 @@
+@import "~bootstrap/scss/bootstrap";
+
+.choose{
+    color: #3c3e60;
+    transition: 0.3s;
+    border-bottom: 1px solid #d3d9e2;
+    margin: 0;
+    font-size: 13px;
+    text-align: left;
+    margin-top: 4px;
+    margin-left: 13px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding-bottom: 10px;
+
+}
+.no_border{
+    border-bottom:none  !important  ;
+}
+.backtop_button{
+    top: -25px;
+}
+.backtop{
+    width: 30px;
+    border-radius: 20px;
+    height: 30px;
+    box-shadow: 3px 3px 6px 0 rgba(151, 167, 195, 0.5);
+    border: solid 1px #fefefe;
+    .rotate{
+        transform: rotate(90deg);
+
+    }
+    &_icon{
+        font-size: 16px !important;
+        transition: 0.3s;
+        color: rgba(151, 167, 195, 0.5) !important;
+        transform: rotate(-90deg);
+        padding: 0 !important;
+    }
+}
+.advise{
+    display: flex;
+    flex-direction: row;
+    img{
+        padding-left: 5px;
+        width: 24px;
+        margin-top: 9px;
+        height: 24px;
+        margin-left: 5px;
+    }
+}
+.adviseHeader {
+    right: 14px;
+    bottom: -23px;
+    z-index: 99999999;
+    cursor: pointer;
+}
+.connect_staff{
+    padding-top: 10px;
+    position: absolute;
+    bottom: 119px;
+    left: 38px;
+    background: #f2f2f2;
+    font-size: 15px;
+    span{
+        font-weight:600;
+    }
+}

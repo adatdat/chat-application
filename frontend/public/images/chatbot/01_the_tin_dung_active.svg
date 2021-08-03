@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="credit-card" d="M0,49.458a2.1,2.1,0,0,0,2.1,2.1H23.044a2.1,2.1,0,0,0,2.095-2.1V39.847H0ZM8.38,46.49a.525.525,0,0,1,.524-.524H14.84a.525.525,0,0,1,.524.524v1.746a.525.525,0,0,1-.524.524H8.9a.525.525,0,0,1-.524-.524Zm-5.587,0a.525.525,0,0,1,.524-.524H6.459a.525.525,0,0,1,.524.524v1.746a.525.525,0,0,1-.524.524H3.317a.525.525,0,0,1-.524-.524Zm22.346-12.4v2.1H0V34.1A2.1,2.1,0,0,1,2.1,32H23.044a2.1,2.1,0,0,1,2.095,2.1Z" transform="translate(102 -19)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Exclusion_700" x="-6" y="-6" width="52.001" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_01_the_tin_dung_active" data-name="01_the_tin_dung_active" transform="translate(-57 -14)">
+    <g id="Mask_Group_22684" data-name="Mask Group 22684" transform="translate(-40 9)" clip-path="url(#clip-path)">
+      <g id="Group_55377" data-name="Group 55377">
+        <path id="Path_65304" data-name="Path 65304" d="M10,0H36A10,10,0,0,1,46,10V36A10,10,0,0,1,36,46H10A10,10,0,0,1,0,36V10A10,10,0,0,1,10,0Z" transform="translate(92)" fill="#2b4fd8"/>
+        <g transform="matrix(1, 0, 0, 1, 97, 5)" filter="url(#Exclusion_700)">
+          <path id="Exclusion_700-2" data-name="Exclusion 700" d="M10318,5066h-26a10,10,0,0,1-10-10v-26a10.013,10.013,0,0,1,10-10h26a10.011,10.011,0,0,1,10,10v26A10,10,0,0,1,10318,5066Zm-26-25.152v9.611a2.1,2.1,0,0,0,2.095,2.094h20.95a2.1,2.1,0,0,0,2.095-2.094v-9.611Zm2.095-7.846a2.1,2.1,0,0,0-2.1,2.094v2.094h25.14v-2.09a2.1,2.1,0,0,0-2.095-2.094Zm12.744,16.76h-5.936a.525.525,0,0,1-.523-.526v-1.745a.523.523,0,0,1,.523-.523h5.936a.524.524,0,0,1,.523.523v1.745a.524.524,0,0,1-.522.526Zm-8.38,0h-3.142a.525.525,0,0,1-.523-.526v-1.745a.523.523,0,0,1,.523-.523h3.142a.524.524,0,0,1,.523.523v1.745a.521.521,0,0,1-.523.526Z" transform="translate(-10287 -5025)" fill="#f8f8f8"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_41478" data-name="Rectangle 41478" width="36" height="36" transform="translate(57 14)" fill="none"/>
+  </g>
+</svg>

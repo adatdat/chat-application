@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_41390" data-name="Rectangle 41390" width="36" height="36" transform="translate(45 1491)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_84017" data-name="Path 84017" d="M9.879,12.126h2.313a4.8,4.8,0,0,1,4.8,4.8H9.526v1.066h8.527V16.923a5.946,5.946,0,0,0-.944-3.2h3.076A5.33,5.33,0,0,1,25,16.764a14.021,14.021,0,0,1-11.209,5.488A15.435,15.435,0,0,1,6.33,20.52V10.6A7.426,7.426,0,0,1,9.879,12.126ZM5.264,20.12A1.066,1.066,0,0,1,4.2,21.186H2.066A1.066,1.066,0,0,1,1,20.12V10.527A1.066,1.066,0,0,1,2.066,9.461H4.2a1.066,1.066,0,0,1,1.066,1.066ZM19.12,5.2a3.2,3.2,0,1,1-3.2,3.2A3.2,3.2,0,0,1,19.12,5.2ZM11.659,2a3.2,3.2,0,1,1-3.2,3.2A3.2,3.2,0,0,1,11.659,2Z" transform="translate(-13434 -7850.909)"/>
+    </clipPath>
+    <filter id="Exclusion_677" x="-4" y="-4.217" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_06_vay_active" data-name="06_vay_active" transform="translate(-45 -1491)" clip-path="url(#clip-path)">
+    <g id="Mask_Group_22662" data-name="Mask Group 22662" transform="translate(13484 9347.783)" clip-path="url(#clip-path-2)">
+      <g id="Group_55339" data-name="Group 55339">
+        <rect id="Rectangle_41388" data-name="Rectangle 41388" width="42" height="42" rx="8" transform="translate(-13442 -7859.783)" fill="#4064ec"/>
+        <g transform="matrix(1, 0, 0, 1, -13439, -7856.78)" filter="url(#Exclusion_677)">
+          <path id="Exclusion_677-2" data-name="Exclusion 677" d="M34,42H8a8.009,8.009,0,0,1-8-8V8A8.009,8.009,0,0,1,8,0H34a8.009,8.009,0,0,1,8,8V34A8.009,8.009,0,0,1,34,42ZM14.33,19.6V29.52a15.429,15.429,0,0,0,7.461,1.733A14.1,14.1,0,0,0,33,25.764a5.354,5.354,0,0,0-4.812-3.039H25.11a5.926,5.926,0,0,1,.944,3.2v1.066H17.528V25.923h7.462a4.8,4.8,0,0,0-4.8-4.8H17.879A7.435,7.435,0,0,0,14.33,19.6Zm-4.264-1.141A1.067,1.067,0,0,0,9,19.527V29.12a1.067,1.067,0,0,0,1.066,1.066H12.2a1.067,1.067,0,0,0,1.066-1.066V19.527A1.067,1.067,0,0,0,12.2,18.462ZM27.121,14.2a3.2,3.2,0,1,0,3.2,3.2A3.2,3.2,0,0,0,27.121,14.2ZM19.659,11a3.2,3.2,0,1,0,3.2,3.2A3.2,3.2,0,0,0,19.659,11Z" transform="translate(-3 -3.22)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

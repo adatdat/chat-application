@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_720" data-name="Union 720" d="M.955,21a.973.973,0,0,1,0-1.946H20.036a.973.973,0,0,1,0,1.946Zm1.216-2.531a.975.975,0,0,1,0-1.95h.239V7.755H2.171A.483.483,0,0,1,1.7,7.267a.479.479,0,0,1,.475-.483h16.65a.479.479,0,0,1,.475.483.483.483,0,0,1-.475.488h-.235V16.52h.235a.975.975,0,0,1,0,1.95Zm11.656-1.95h2.852V7.755H13.827Zm-4.759,0h2.856V7.755H9.068Zm-4.756,0H7.164V7.755H4.312ZM20.036,6.331H.955a.957.957,0,0,1-.931-.769A.979.979,0,0,1,.566,4.469L10.1.087a.926.926,0,0,1,.782,0l9.469,4.346A.982.982,0,0,1,21,5.354a.966.966,0,0,1-.954.977Z" transform="translate(111 168)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Exclusion_672" x="-8" y="-9" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_05_ngan_hang_dien_tu_active" data-name="05_ngan_hang_dien_tu_active" transform="translate(-16 -161)">
+    <g id="Mask_Group_22684" data-name="Mask Group 22684" transform="translate(-87)" clip-path="url(#clip-path)">
+      <g id="Group_55330" data-name="Group 55330" transform="translate(96.423 153.423)">
+        <path id="Path_65156" data-name="Path 65156" d="M11.213,0H40.367A11.213,11.213,0,0,1,51.58,11.213V40.367A11.213,11.213,0,0,1,40.367,51.58H11.213A11.213,11.213,0,0,1,0,40.367V11.213A11.213,11.213,0,0,1,11.213,0Z" fill="#4064ec"/>
+        <g transform="matrix(1, 0, 0, 1, 6.58, 7.58)" filter="url(#Exclusion_672)">
+          <path id="Exclusion_672-2" data-name="Exclusion 672" d="M42,52H10A10.011,10.011,0,0,1,0,42V10A10.011,10.011,0,0,1,10,0H42A10.011,10.011,0,0,1,52,10V42A10.011,10.011,0,0,1,42,52ZM15.672,34.185a1,1,0,0,0,0,1.99H35.187a1,1,0,0,0,0-1.99Zm1.243-2.592a1,1,0,0,0,0,1.993h17.03a1,1,0,0,0,0-1.993H33.7V22.628h.24a.5.5,0,0,0,0-.995H16.915a.5.5,0,0,0,0,.995h.245v8.965ZM25.43,14.7a.946.946,0,0,0-.4.089l-9.756,4.482a1,1,0,0,0-.554,1.117.981.981,0,0,0,.952.787H35.2a.989.989,0,0,0,.976-1,1,1,0,0,0-.66-.942l-9.685-4.444A.946.946,0,0,0,25.43,14.7Zm6.324,16.9H28.837V22.628h2.917v8.964Zm-4.863,0H23.97V22.628h2.921v8.964Zm-4.869,0H19.106V22.628h2.916v8.964Z" transform="translate(-7 -8)" fill="#f8f8f8"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_41478" data-name="Rectangle 41478" width="36" height="36" transform="translate(16 161)" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_41417" data-name="Rectangle 41417" width="36" height="36" transform="translate(-22416.857 -18695.857)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_84025" data-name="Path 84025" d="M2,15.619H9.571v10.1H2ZM10.833,3H18.4V25.714H10.833Zm8.833,6.309h7.571v16.4H19.666Z" transform="translate(-2 -3)" fill="#fff"/>
+    </clipPath>
+    <filter id="Exclusion_683" x="-4.381" y="-3.643" width="48.999" height="48.999" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_08_thong_ke_giao_dich_active" data-name="08_thong_ke_giao_dich_active" transform="translate(22416.857 18695.857)" clip-path="url(#clip-path)">
+    <g id="Mask_Group_22671" data-name="Mask Group 22671" transform="translate(-22411.857 -18688.857)" clip-path="url(#clip-path-2)">
+      <g id="Group_55346" data-name="Group 55346" transform="translate(-16.404 -17.666)">
+        <rect id="Rectangle_41415" data-name="Rectangle 41415" width="58" height="58" rx="10" transform="translate(0.024 0.024)" fill="#4064ec"/>
+        <g transform="matrix(1, 0, 0, 1, 11.4, 10.67)" filter="url(#Exclusion_683)">
+          <path id="Exclusion_683-2" data-name="Exclusion 683" d="M38,43H5a5.006,5.006,0,0,1-5-5V5A5.006,5.006,0,0,1,5,0H38a5.006,5.006,0,0,1,5,5V38A5.005,5.005,0,0,1,38,43ZM26.559,16.441V32.882h7.588V16.441Zm-8.853-6.323V32.882h7.588V10.118ZM8.853,22.765V32.882h7.588V22.765Z" transform="translate(-3.38 -2.64)" fill="#f8f8f8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

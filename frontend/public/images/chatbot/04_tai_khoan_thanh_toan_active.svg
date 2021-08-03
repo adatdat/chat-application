@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_724" data-name="Union 724" d="M2,22.006a2,2,0,0,1-2-2V13.542H20v6.464a2,2,0,0,1-2,2Zm11.045-2.722a.905.905,0,0,0,.906.906h2.534a.906.906,0,0,0,0-1.813H13.951A.909.909,0,0,0,13.045,19.284ZM0,11.852V9.619a2,2,0,0,1,2-2H18a2,2,0,0,1,2,2v2.233ZM1.27,6.775A.867.867,0,0,1,1.71,6.5L16.681,2.6a.864.864,0,0,1,1.063.6l.986,3.577v0ZM9.444.352A1.465,1.465,0,0,1,10,.05a1.114,1.114,0,0,1,.983.142l2.878,2.23a.726.726,0,0,1,.178.208h0l-10.6,2.96Z" transform="translate(-11366 -4830.005)" fill="#f8f8f8"/>
+    </clipPath>
+    <filter id="Exclusion_675" x="-6" y="-5.997" width="52" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#00209a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_04_tai_khoan_thanh_toan_active" data-name="04_tai_khoan_thanh_toan_active" transform="translate(11424 4839)">
+    <rect id="Rectangle_30672" data-name="Rectangle 30672" width="36" height="36" transform="translate(-11424 -4839)" fill="none"/>
+    <g id="Mask_Group_22660" data-name="Mask Group 22660" transform="translate(-50 -1.994)" clip-path="url(#clip-path)">
+      <g id="Group_55335" data-name="Group 55335">
+        <rect id="Rectangle_30672-2" data-name="Rectangle 30672" width="36" height="36" transform="translate(-11374 -4837)" fill="none"/>
+        <path id="Path_66418" data-name="Path 66418" d="M10,0H36A10,10,0,0,1,46,10V36A10,10,0,0,1,36,46H10A10,10,0,0,1,0,36V10A10,10,0,0,1,10,0Z" transform="translate(-11379 -4842.002)" fill="#4064ec"/>
+        <g transform="matrix(1, 0, 0, 1, -11374, -4837.01)" filter="url(#Exclusion_675)">
+          <path id="Exclusion_675-2" data-name="Exclusion 675" d="M36,46H10A10.011,10.011,0,0,1,0,36V10A10.011,10.011,0,0,1,10,0H36A10.011,10.011,0,0,1,46,10V36A10.011,10.011,0,0,1,36,46ZM13,25.541V32a2,2,0,0,0,2,2H31a2,2,0,0,0,2-2V25.541Zm2-5.923a2,2,0,0,0-2,2v2.231H33V21.618a2,2,0,0,0-2-2Zm14.907-5.051a.872.872,0,0,0-.226.03l-14.97,3.9a.864.864,0,0,0-.44.272H31.729l-.985-3.577A.867.867,0,0,0,29.906,14.567ZM23.373,12A1.377,1.377,0,0,0,23,12.05a1.45,1.45,0,0,0-.558.3l-6.007,5.239,10.6-2.959a.692.692,0,0,0-.18-.207L23.986,12.19A1,1,0,0,0,23.373,12Zm6.111,20.192H26.95a.906.906,0,1,1,0-1.813h2.534a.906.906,0,1,1,0,1.813Z" transform="translate(-5 -5)" fill="#f8f8f8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

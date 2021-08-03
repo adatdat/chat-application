@@ -6,21 +6,30 @@ import cors from 'cors';
 import { logs, CLIENT_URL, SERVER_URL, ADMIN_URL } from './vars.js';
 import routers from '../routes/index.js';
 import logger from './logger.js';
+import bodyParser from 'body-parser'
 
-const server = express();
-server.use("/", routers);
+import { Server } from 'socket.io';
+import { createServer } from 'http';
 
-server.use(helmet());
-server.use(morgan(logs, { stream: logger.stream }));
+const app = express();
+const server = createServer(app);
+const socketio = new Server(server);
 
-server.use(express.json());
-server.use(express.urlencoded({ extended: true }));
-//server.use(express.static(__dirname));
 
-server.use(
-  cors({
-    origin: [ADMIN_URL, CLIENT_URL, SERVER_URL]
-  })
-);
+socketio.on('connection' , socket =>{
+    console.log('New connection	')
+})
+app.use("/", routers);
 
-export default server;
+app.use(helmet());
+app.use(morgan(logs, { stream: logger.stream }));
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }))
+//app.use(express.static(__dirname));
+
+app.use(cors())
+
+export default app;
